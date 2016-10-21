@@ -1,0 +1,9 @@
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\National University\National University\bin\Debug\National University.exe.config
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\National University\National University\bin\Debug\National University.exe
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\National University\National University\bin\Debug\National University.pdb
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\National University\National University\obj\Debug\National University.csprojResolveAssemblyReference.cache
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\National University\National University\obj\Debug\National_University.Form1.resources
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\National University\National University\obj\Debug\National_University.Properties.Resources.resources
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\National University\National University\obj\Debug\National University.csproj.GenerateResource.Cache
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\National University\National University\obj\Debug\National University.exe
+c:\users\jeremy turney\documents\visual studio 2015\Projects\CSC670\National University\National University\obj\Debug\National University.pdb
